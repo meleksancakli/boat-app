@@ -4,7 +4,7 @@ Bu proje, JWT ile oturum işlemlerini yönetmeyi öğrenmek, React, Redux ve Nod
 
 ## Proje Hakkında
 
-Bu proje geliştirilirken, ReactJS, React-Redux, Redux, Redux-Thunk, Node.js, ExpressJS, MongoDB, Json Web Token(TWT), ReactStrap, Axios ve tabi ki JavaScript kullanıldı.
+Bu proje geliştirilirken, ReactJS, React-Redux, Redux, Redux-Thunk, Node.js, ExpressJS, MongoDB, Json Web Token(TWT), ReactStrap, Axios ve JavaScript kullanıldı.
 
 ## Başlamadan Önce
 
