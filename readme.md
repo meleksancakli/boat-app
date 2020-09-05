@@ -16,7 +16,7 @@ npm install
 ```
 Bu komutu client dosyası içinde de çalıştırmayı unutma.
 
-### Proyejnin Çalıştırılması
+### Projenin Çalıştırılması
 Ana klasör içinde bu komutu çalıştırmalısın:
 ```
 npm run dev
