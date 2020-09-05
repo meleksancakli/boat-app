@@ -17,7 +17,7 @@ class WelcomeContainer extends Component {
                         <CardTitle>Admin: Sisteme giriş yapabilen, yeni admin ekleyebilen; kullanıcı, tekne ve tekne sahiplerini görüntüleyip düzenleyebilen, silebilen ya da güncelleyebilen kişi. Buradaki authorization işlemleri için Json Web Token kullanılıyor.</CardTitle>
                         <b><CardTitle>Kullanılan Teknolojiler/Kütüphaneler ve Yapılar:</CardTitle></b>
                         <CardTitle>ReactJS, React-Redux, Redux, Redux-Thunk, Node.js, ExpressJS, MongoDB, Json Web Token(TWT), ReactStrap, Axios ve tabi ki JavaScript. </CardTitle>
-                        <CardTitle>Güncel repoya buradan ulaşabilirsin: <a href="https://github.com/meleksancakli/boatapp">Repo</a> </CardTitle>
+                        <CardTitle>Güncel repoya buradan ulaşabilirsin: <a href="https://github.com/meleksancakli/boat-app">Repo</a> </CardTitle>
 
 
                     </CardBody>
